@@ -1,0 +1,2 @@
+# KIZASHI
+Your Trading Assistant
